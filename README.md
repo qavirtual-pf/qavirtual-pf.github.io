@@ -1,6 +1,3 @@
-# qavirtual-pf.github.io
-Fly the world with Qatar Airways Virtual. Where every dream begins...
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -56,18 +53,18 @@ Fly the world with Qatar Airways Virtual. Where every dream begins...
 </head>
 <body>
   <header>
-    <h1>Hello, I’m YourName 👋</h1>
+    <h1>Hello, I’m og_madrid! 👋</h1>
     <p>Welcome to my GitHub homepage</p>
   </header>
 
   <main>
     <h2>About Me</h2>
     <p>I build cool projects and share them here on GitHub. 🚀</p>
-    <a href="https://github.com/YourUsername" class="button">View My GitHub</a>
+    <a href="https://github.com/qavirtual.pf" class="button">View My GitHub</a>
   </main>
 
   <footer>
-    <p>© 2025 YourName · Powered by GitHub Pages</p>
+    <p>© 2025 og_madrid · Powered by GitHub Pages</p>
   </footer>
 </body>
 </html>
